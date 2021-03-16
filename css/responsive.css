@@ -1,0 +1,19 @@
+@media (max-width: 994px) {
+	.call_top {
+		display: none;
+	}
+
+	.home_top .ht_konten {
+		margin-top: 0px;
+	}
+
+	.home_top .ht_kontens{
+		display: inline-block;
+	}
+}
+
+@media (max-width: 768px) {
+	.headerkanan {
+		display: none;
+	}
+}
